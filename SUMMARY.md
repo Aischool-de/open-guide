@@ -9,6 +9,7 @@
 * [Build loop cheatsheet](ai-building/build-loop-cheatsheet.md)
 * [Vibe coding loop](ai-building/vibe-coding-loop.md)
 * [Sprint checklist](ai-building/sprint-checklist.md)
+* [Mobile app practical](ai-building/mobile-app-practical.md)
 * [Unstuck: evidence first](ai-building/unstuck-evidence-first.md)
 * [Quality gate before demo](ai-building/quality-gate-before-demo.md)
 

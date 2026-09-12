@@ -6,9 +6,10 @@ Public pack for the Ai School × Shipaton IRL day. Official rules always win: [s
 
 1. [Shipaton quickstart](/partners/shipaton-quickstart)
 2. [Build loop cheatsheet](/ai-building/build-loop-cheatsheet)
-3. [Prompts](/prompts/)
-4. [Sprint checklist](/ai-building/sprint-checklist)
-5. [Quality gate](/ai-building/quality-gate-before-demo)
+3. [Mobile app practical](/ai-building/mobile-app-practical) — prompts for BRD, scope, scaffold, emulator
+4. [Prompts](/prompts/)
+5. [Sprint checklist](/ai-building/sprint-checklist)
+6. [Quality gate](/ai-building/quality-gate-before-demo)
 
 ## Notes
 
