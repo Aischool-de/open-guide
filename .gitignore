@@ -1,0 +1,5 @@
+# Public content repo — Markdown only
+.DS_Store
+*.log
+.env
+.env.*
