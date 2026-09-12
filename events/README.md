@@ -7,7 +7,7 @@ Example:
 ```text
 events/
   shipaton-berlin-2026-09-12/
-    index.md      # today’s path + links into prompts / ai-building
+    README.md     # today’s path + links into prompts / ai-building
     agenda.md     # public schedule only
 ```
 
